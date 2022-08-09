@@ -1,0 +1,2 @@
+# Robotic-Arm-3D-simulation-using-MATLAB
+In order to enhance the study of the kinematics of any robot arm, parameter design is directed according to certain necessities for the robot, and its forward and inverse kinematics are discussed. The DR convention Method is used to form the kinematical equation of the resultant structure. In addition, the Robotics equations are modeled in MATLAB to create a 3D visual simulation of the robot arm. The simulation has detected the movement of each joint of the robot arm, and tested the parameters. 
