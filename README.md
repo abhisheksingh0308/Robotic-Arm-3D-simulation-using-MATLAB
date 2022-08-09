@@ -11,7 +11,10 @@ This robotic arm was 6-D0F type.
 
 # Process
 ●	So, Basically, we will be taking separate MATLAB files (.m) for each distinct part like for e.g. cylinders, lines, floor, and to sum up all; this will be making the structure of the robot.
+
 ●	Now, the rotation joint will take the input angle, and the prismatic joint will take the joint extension as input.
+
 ●	The given inputs and the DH-parameters  respectively will be used for the compilation of the final model of the robot. 
+
 ●	All the above criterion will only be satisfied as and according to given inputs and the output will be the resulting robot model.  
 
